@@ -11,7 +11,7 @@
 Для работы данного файла требуется установить библиотеку Hugging Face
 !pip install transformers sentencepiece
 
-Замечание: Ntrcn ljk;ty ,snm yf ghfdbkmyjv fyukbqcrjv zpsrt? lfyysq fkujhbnv yt ghjdthztn ghfdbkmyjcnm fyukbqcrjuj? bcgjkmpeqnt lkz  'njuj lheubt ,b,kbjntrb/'
+Замечание: Данный файл принимает правильный текст на английском языке, для определения правильности текста используйте другие пакеты
 
 Примеры:
 1) Введите текст на английском: person today
